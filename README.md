@@ -48,7 +48,7 @@
 <section>
   <h2>Let’s Connect</h2>
   <p><strong>Email:</strong> olakiitanayoni@gmail.com</p>
-  <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/boluwatilewato-olufemi-adigun" target="_blank">linkedin.com/in/boluwatilewato-olufemi-adigun</a></p>
+  <p><strong>LinkedIn:</strong> <a href=" https://www.linkedin.com/in/boluwatilewato-olufemi-adigun-521525228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">linkedin.com/in/boluwatilewato-olufemi-adigun</a></p>
 </section>
 
   </main>
