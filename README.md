@@ -55,7 +55,7 @@ Analyzed regional sales data to uncover seasonal trends, product preferences, an
 ## Let’s Connect
 
 I’m always excited to collaborate on projects at the intersection of **data, finance, and impact**.  
-**Contact**: olakiitanayoni@gmail.com@gmail.com  
+**Contact**: olakiitanayoni@gmail.com
 **LinkedIn**: https://www.linkedin.com/in/boluwatilewato-olufemi-adigun-521525228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
